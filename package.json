@@ -1,0 +1,13 @@
+{
+  "name": "ca2016",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Zach Schwartz",
+  "license": "MIT",
+  "scripts": {
+    "jupyter": "docker run -it --rm -v $PWD:/home/jovyan/work --rm -p 8888:8888 jupyter/datascience-notebook start-notebook.sh --NotebookApp.token=''",
+    "nbconvert": "docker run -it --rm -v $PWD:/home/jovyan/work --rm jupyter/datascience-notebook jupyter nbconvert --to python work/app.ipynb",
+    "nbrun": "docker run -it --rm -v $PWD:/home/jovyan/work --rm jupyter/datascience-notebook jupyter nbconvert --execute  work/app.ipynb",
+    "jupyter-debug": "docker run -it --rm -v $PWD:/home/jovyan/work --rm -p 8888:8888 jupyter/datascience-notebook bash"
+  }
+}
