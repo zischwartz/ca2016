@@ -1,0 +1,235 @@
+[
+  {
+    "County": "Alameda",
+    "winner": "Hillary Clinton",
+    "Hillary Clinton": 22222222
+  },
+  {
+    "County": "Alpine",
+    "winner": ""
+  },
+  {
+    "County": "Amador",
+    "winner": ""
+  },
+  {
+    "County": "Butte",
+    "winner": ""
+  },
+  {
+    "County": "Calaveras",
+    "winner": ""
+  },
+  {
+    "County": "Colusa",
+    "winner": ""
+  },
+  {
+    "County": "Contra Costa",
+    "winner": ""
+  },
+  {
+    "County": "Del Norte",
+    "winner": ""
+  },
+  {
+    "County": "El Dorado",
+    "winner": ""
+  },
+  {
+    "County": "Fresno",
+    "winner": ""
+  },
+  {
+    "County": "Glenn",
+    "winner": ""
+  },
+  {
+    "County": "Humboldt",
+    "winner": ""
+  },
+  {
+    "County": "Imperial",
+    "winner": ""
+  },
+  {
+    "County": "Inyo",
+    "winner": ""
+  },
+  {
+    "County": "Kern",
+    "winner": ""
+  },
+  {
+    "County": "Kings",
+    "winner": ""
+  },
+  {
+    "County": "Lake",
+    "winner": ""
+  },
+  {
+    "County": "Lassen",
+    "winner": ""
+  },
+  {
+    "County": "Los Angeles",
+    "winner": ""
+  },
+  {
+    "County": "Madera",
+    "winner": ""
+  },
+  {
+    "County": "Marin",
+    "winner": ""
+  },
+  {
+    "County": "Mariposa",
+    "winner": ""
+  },
+  {
+    "County": "Mendocino",
+    "winner": ""
+  },
+  {
+    "County": "Merced",
+    "winner": ""
+  },
+  {
+    "County": "Modoc",
+    "winner": ""
+  },
+  {
+    "County": "Mono",
+    "winner": ""
+  },
+  {
+    "County": "Monterey",
+    "winner": ""
+  },
+  {
+    "County": "Napa",
+    "winner": ""
+  },
+  {
+    "County": "Nevada",
+    "winner": ""
+  },
+  {
+    "County": "Orange",
+    "winner": ""
+  },
+  {
+    "County": "Placer",
+    "winner": ""
+  },
+  {
+    "County": "Plumas",
+    "winner": ""
+  },
+  {
+    "County": "Riverside",
+    "winner": ""
+  },
+  {
+    "County": "Sacramento",
+    "winner": ""
+  },
+  {
+    "County": "San Benito",
+    "winner": ""
+  },
+  {
+    "County": "San Bernardino",
+    "winner": ""
+  },
+  {
+    "County": "San Diego",
+    "winner": ""
+  },
+  {
+    "County": "San Francisco",
+    "winner": ""
+  },
+  {
+    "County": "San Joaquin",
+    "winner": ""
+  },
+  {
+    "County": "San Luis Obispo",
+    "winner": ""
+  },
+  {
+    "County": "San Mateo",
+    "winner": ""
+  },
+  {
+    "County": "Santa Barbara",
+    "winner": ""
+  },
+  {
+    "County": "Santa Clara",
+    "winner": ""
+  },
+  {
+    "County": "Santa Cruz",
+    "winner": ""
+  },
+  {
+    "County": "Shasta",
+    "winner": ""
+  },
+  {
+    "County": "Sierra",
+    "winner": ""
+  },
+  {
+    "County": "Siskiyou",
+    "winner": ""
+  },
+  {
+    "County": "Solano",
+    "winner": ""
+  },
+  {
+    "County": "Sonoma",
+    "winner": ""
+  },
+  {
+    "County": "Stanislaus",
+    "winner": ""
+  },
+  {
+    "County": "Sutter",
+    "winner": ""
+  },
+  {
+    "County": "Tehama",
+    "winner": ""
+  },
+  {
+    "County": "Trinity",
+    "winner": ""
+  },
+  {
+    "County": "Tulare",
+    "winner": ""
+  },
+  {
+    "County": "Tuolumne",
+    "winner": ""
+  },
+  {
+    "County": "Ventura",
+    "winner": ""
+  },
+  {
+    "County": "Yolo",
+    "winner": ""
+  },
+  {
+    "County": "Yuba",
+    "winner": ""
+  }
+]
